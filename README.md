@@ -31,11 +31,11 @@ Major Driving factor which can be used to predict the chance of defaulting
 
 
 ## Technologies Used
-Python - version 3.11.7
-Matplotlib - version 3.8.0
-Numpy - version 1.26.4
-Pandas - version 2.1.4
-Seaborn - version 0.13.2
+1. Python - version 3.11.7
+2. Matplotlib - version 3.8.0
+3. Numpy - version 1.26.4
+4. Pandas - version 2.1.4
+5. Seaborn - version 0.13.2
 
 
 ## Acknowledgements
